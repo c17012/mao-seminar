@@ -1,13 +1,13 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
-
+#メンバー  真央教授  エルマス  わかば
 # ディレクトリ構成
 ```
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
 ├─ work.html         # ゼミ活動紹介ページ
-├─ README.md
+├─ README.md         #メンバー　　真央教授　　エルマス　　わかば
 ├─ images
 └─ css/
     └─ common.css
